@@ -9,6 +9,7 @@ It contains:
 - Resume
 - Online Certificates
 - Project Portfolio
+- Project Archive Page
 
 URL: https://steve-njuguna.netlify.app/
 
