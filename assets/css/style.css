@@ -2,7 +2,7 @@
 # General
 --------------------------------------------------------------*/
 body {
-  font-family: "Inconsolata", sans-serif;
+  font-family: "Chakra Petch", sans-serif;
   color: #fff;
   background-color: #0f181f;
 }
@@ -18,7 +18,7 @@ a:hover {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Inconsolata", sans-serif;
+  font-family: "Chakra Petch", sans-serif;
   color: #fff;
 }
 
@@ -263,7 +263,7 @@ h1, h2, h3, h4, h5, h6 {
   color: #ffffff;
   margin: 15px 0 0 0;
   font-size: 18px;
-  font-family: "Inconsolata", sans-serif;
+  font-family: "Chakra Petch", sans-serif;
 }
 #hero p span {
   color: #00c560;
@@ -491,7 +491,7 @@ section {
   font-size: 18px;
   font-weight: 600;
   text-transform: uppercase;
-  font-family: "Inconsolata", sans-serif;
+  font-family: "Chakra Petch", sans-serif;
   color: #00c560;
   margin-bottom: 10px;
 }
@@ -645,7 +645,7 @@ section {
   font-size: 36px;
   font-weight: 700;
   position: relative;
-  font-family: "Inconsolata", sans-serif;
+  font-family: "Chakra Petch", sans-serif;
   padding: 0;
   margin: 0 0 15px 0;
 }
