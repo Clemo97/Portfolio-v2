@@ -392,6 +392,7 @@ section {
  background-color: #1d282e;
  border-radius: 10px;
  margin-bottom: 15px;
+ border-radius: 10px;
 }
 
 .card-body{
@@ -532,6 +533,11 @@ section {
 /*--------------------------------------------------------------
 # Portfolio
 --------------------------------------------------------------*/
+.card-img-top{
+  border-radius: 10px 10px 0px 0px;
+  padding-bottom: 5px;
+}
+
 .project {
   text-align: center;
   font-size: 22px;
